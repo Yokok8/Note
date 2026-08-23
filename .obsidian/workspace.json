@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "a99dff114861e3a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e835e14f0666fc06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7a5a5fbe623ba72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学！！！/8月22日 --集合进阶.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8月22日 --集合进阶"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43cc8e3ffc5ac48d",
+    "type": "split",
+    "children": [
+      {
+        "id": "10da5d1f7bbdb5bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf7170fe2006c50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fed8b2db4a0f4b42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0e94b6ba8bf1d1b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "f2580bf43fc7d387",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "8月21日--集合进阶_常见方法和遍历方式.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354.16668701171875
+  },
+  "right": {
+    "id": "93d214ad18a8b4c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0bb79392b2f744e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed27d621071b4c41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "8月21日--集合进阶_常见方法和遍历方式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "a06296a765f75ef9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "300c8e7c50a8d986",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "414840545678f987",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "dda7465937c4412b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "f7a5a5fbe623ba72",
+  "lastOpenFiles": [
+    "学！！！/8月22日 --数据结构_栈  队列  数组  链表.md",
+    "学！！！/8月22日 --集合进阶.md",
+    "图片/linkedlist集合方法.png",
+    "图片/ArrayList集合底层原理.png",
+    "图片/栈  队列  数组  链表 总结.png",
+    "图片/单向双向链表.png",
+    "{6FE52F91-4721-4558-9E1B-B1FCF693C7A9}.png",
+    "图片/链表删除.png",
+    "图片/链表添加.png",
+    "图片/链表结构.png",
+    "图片/数组.png",
+    "图片/进队列出队列.png",
+    "学！！！/8月21日--集合进阶_Collection常见方法和遍历方式.md",
+    "格斗游戏需求文档.md",
+    "学！！！/8月20日--JFrame项目2.md",
+    "学！！！/8月20日--正则表达式.md",
+    "学！！！/8月19日--JFrame项目.md",
+    "学！！！/8月17日--git常用命令.md",
+    "学！！！/8月16-18日   学习.md",
+    "02-登录界面的业务分析.md",
+    "学！！！",
+    "day17作业.md",
+    "未命名 1.base",
+    "未命名.base",
+    "img",
+    "科目四精华课知识点总结.md",
+    "day16作业.md",
+    "Java知识点备忘录.md",
+    "Java知识点备忘录 1.md",
+    "2026-08-18.md",
+    "图片",
+    "新建文件夹",
+    "欢迎.md"
+  ]
+}
