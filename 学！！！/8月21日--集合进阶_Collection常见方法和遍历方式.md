@@ -2,7 +2,7 @@
 ## Collection是单列集合的祖宗接口，它的功能是全部单列集合都可以继承使用的。
 
 ## Collection常见方法
-![[Collection常见方法.png]]
+![Collection常见方法](../图片/Collection常见方法.png)
 
 contains方法细节：
 //如果存在自定义对象，没有重写equals方法，那么默认使用Object类中的equals方法进行判断，而Object类中equals方法，依赖地址值进行判断。
@@ -12,7 +12,7 @@ contains方法细节：
 ## Collection的遍历方式
 
 ### 迭代器遍历
-![[迭代器遍历.png|458]]
+![迭代器遍历](../图片/迭代器遍历.png)
 
 Iterator<String> 变量名 = coll.iterator();-->创建指针
 变量名.hasNext() -->判断是否有元素
@@ -30,7 +30,7 @@ Iterator<String> 变量名 = coll.iterator();-->创建指针
 
 增强for的底层就是迭代器，为了简化迭代器的代码书写的。
 所有的  **==单列集合==**  和  **==数组==**  才能用增强for进行遍历。
-![[增强for遍历.png]]
+![增强for遍历](../图片/增强for遍历.png)
 
 增强for里的变量是第三方变量，所以修改增强for中的变量，不会改变集合中原本的数据。
 

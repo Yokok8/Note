@@ -140,7 +140,7 @@ this.getContentPane().add(background);
 ## 2. 上下左右移动的逻辑
 
 
-![[移动.png|315]]
+![移动](../img/移动.png)
 
 #### 业务分析：
 
@@ -219,7 +219,7 @@ public void keyReleased(KeyEvent e) {
 
 ## 3. 查看完整图片的功能
 
- ![[查看完整图片.png|343]]
+ ![查看完整图片](../img/查看完整图片.png)
 
 #### 业务分析：
 
@@ -373,7 +373,7 @@ public class GameJFrame extends JFrame implements KeyListener,ActionListener{
 
 ## 6. 计步功能
 
-![[移动 1.png|352]]
+![移动 1](../img/移动 1.png)
 
 #### 业务分许：
 
@@ -1016,8 +1016,6 @@ public class GameJFrame extends JFrame implements KeyListener,ActionListener{
 
 
 ​	
-
-
 
 
 
